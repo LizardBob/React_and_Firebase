@@ -17,7 +17,7 @@ class App extends React.Component {
     return (
       <Router>
         <div>
-          <h1>Justyna jest ... :P</h1>
+          <h1>myApp</h1>
           <Navigation />
 
           <hr />
